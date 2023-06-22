@@ -1,10 +1,10 @@
 Olá, meu nome é Lia e estou iniciando na programação por meio da criação de projetos
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jornadadev2803&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lia445&show_icons=true&theme=dark)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jornadadev2803&repo=Tik-Tok-Project&theme=dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lia445&repo=Tik-Tok-Project&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jornadadev2803&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lia445&layout=compact)
 
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
