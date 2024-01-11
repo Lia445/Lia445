@@ -1,4 +1,6 @@
-Olá, meu nome é Lia e estou iniciando na programação por meio da criação de projetos
+Olá! Sou a Lia, uma profissional apaixonada por desafios e aprendizado contínuo. Inicialmente formada em Biologia, decidi trilhar um novo caminho e mergulhei no mundo da programação. Concluí o curso CS50 da Harvard, consolidando minha base em algoritmos e lógica de programação. Além disso, participei de diversos cursos e bootcamps online, principalmente focados em desenvolvimento de software backend em Python, e construí projetos independentes.
+
+Busco uma oportunidade para aplicar meus conhecimentos técnicos e me desafiar em novos aprendizados. Acredito que posso contribuir de forma positiva em uma equipe colaborativa e dinâmica e estou ansiosa para fazer parte de um ambiente de trabalho desafiador.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lia445&show_icons=true&theme=dark)
 
